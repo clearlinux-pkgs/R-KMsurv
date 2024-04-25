@@ -7,7 +7,7 @@
 #
 Name     : R-KMsurv
 Version  : 0.1.5
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/KMsurv_0.1-5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/KMsurv_0.1-5.tar.gz
 Summary  : Data sets from Klein and Moeschberger (1997), Survival Analysis
