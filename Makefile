@@ -1,5 +1,5 @@
 PKG_NAME := R-KMsurv
-URL = https://cran.r-project.org/src/contrib/KMsurv_0.1-5.tar.gz
+URL = https://ftp.osuosl.org/pub/cran/src/contrib/KMsurv_0.1-6.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
